@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RCPTab</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>首页</string>
+			<key>image</key>
+			<string>icon_tab_one</string>
+			<key>image_touch</key>
+			<string>icon_tab_ones</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>课程</string>
+			<key>image</key>
+			<string>icon_tab_two</string>
+			<key>image_touch</key>
+			<string>icon_tab_twos</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>专题</string>
+			<key>image</key>
+			<string>icon_tab_three</string>
+			<key>image_touch</key>
+			<string>icon_tab_threes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>我的</string>
+			<key>image</key>
+			<string>icon_tab_four</string>
+			<key>image_touch</key>
+			<string>icon_tab_fours</string>
+		</dict>
+	</array>
+</dict>
+</plist>
